@@ -1,5 +1,10 @@
 # {Add title of project here}
 
+## Contributor(s):
+1. Paul Ogawa (https://github.com/Pogawa)
+
+##Date:
+
 ## Installation
 
 
@@ -12,18 +17,15 @@ bundle install
 
 To use the app run
 ```
-rerun app.rb
+ruby app.rb
 ```
-Navigate in your browser to localhost:4567. Once page loads enter your package dimensions and weight and  click calculate to find the cost of shipping.
+Navigate in your browser to localhost:4567 and enjoy!!
 
 ### Bug reports
 
 If you discover any bugs, feel free to create an issue on GitHub. Please add as much information as
 possible to help us fixing the possible bug. We also encourage you to help even more by forking and
 sending us a pull request.
-
-## Maintainer:
-1. Paul Ogawa (https://github.com/Pogawa)
 
 
 ## License
